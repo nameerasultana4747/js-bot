@@ -1,4 +1,4 @@
-**This App is created by Mohammed obaid.**
+**This App is created by Nameera Sultana.**
 
   
 
