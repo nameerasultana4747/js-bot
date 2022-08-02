@@ -45,7 +45,7 @@ This is a Web Application Bot created with React.js and Microsoft Azure Web App 
 7. After successful deployment the app will be available.
 
 **Steps taken for deployment using azure devOps:**
-URL for the project demo :http://javascript-final-bot-bot-1.azurewebsites.net/
+URL for the project demo :https://js-bot-3111.azurewebsites.net/
 
 URL for video tutorial: https://1drv.ms/v/s!AsCVvHj3qTGIhbQA_15pbwiKky-1rg?e=KFQOR7
 
